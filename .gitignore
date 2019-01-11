@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+theatre.so
+theatre.dylib
+theatre.dll
+theatre.a
+theatre.lib
+theatre-test-*
+*.exe
+*.o
+*.obj
+*.lst
