@@ -2,7 +2,7 @@ name "theatre"
 description "A minimal D application."
 authors "Christian"
 copyright "Copyright © 2018, Christian"
-license "proprietary"
+license "BSL-1.0"
 dflags "-dip25" "-dip1000"
 
 configuration "library" {
